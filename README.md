@@ -1,4 +1,4 @@
 # WeatherApp 
-A simple app that displays the local weather, its can also search and display weather of another city.
+A simple app that displays the local weather, it can also search and display weather of another city.
 
 
